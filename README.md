@@ -41,7 +41,7 @@ I'm currently open to software engineering internships and junior opportunities.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 **Languages:** TypeScript, JavaScript, Python, Java, PHP, SQL, C++, Dart, HTML, CSS  
-**Application development:** React, Laravel, Django, Spring, Flutter, Vite, Tauri, Hono, REST APIs, WebSockets  
+**Application development:** React, Laravel, Django, Spring, Flutter, Vite, REST APIs 
 **Data and platforms:** PostgreSQL, SQLite, MySQL, Neon, Supabase, Firebase  
 **Engineering practices:** Git and GitHub, automated testing, CI/CD, API design, database design, migrations, debugging, code review, Agile collaboration
 
