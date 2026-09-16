@@ -22,7 +22,6 @@ I'm currently open to software engineering internships and junior opportunities.
 | [Student Book Tracker](https://github.com/SacreddPotato/student-book-tracker) | An offline-first Windows desktop application for student records, book inventory, audit logs, Excel exports, and remote synchronization. | React, TypeScript, Tauri, Rust, SQLite, Hono, Neon |
 | [SafeVision AI](https://github.com/SacreddPotato/AI-Powered-Worker-Monitoring-System-for-Helmet-Compliance-and-Fatigue-Detection--SUT) | Collaborative, real-time worker-safety monitoring with live feeds, alerts, PPE detection, and fatigue analysis; awarded 2nd place at ARIIF. | Django, React, WebSockets, PyTorch, YOLOv8, OpenCV |
 | [Smart Internships Platform](https://github.com/SacreddPotato/Smart-Internships-Platform) | A role-based platform for internship discovery, applications, recommendations, applicant review, and administration. | Laravel, React, Sanctum, REST APIs, SQL |
-| [Contract Tracker](https://github.com/SacreddPotato/contract-tracker-app) | Contract management with authentication, row-level access control, migration-first database changes, and Windows desktop delivery. | React, Laravel, Supabase, Postgres, NativePHP |
 
 ## How I Work
 
