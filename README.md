@@ -10,10 +10,9 @@ I'm currently open to software engineering internships and junior opportunities.
 
 ## Highlights
 
-- 🏆 Contributed across the stack to **SafeVision AI**, which placed **2nd among 40 teams** at the ARIIF competition.
+- 🏆 Contributed across the stack to **SafeVision AI**, which placed **2nd among 40 teams** at a University Competition.
 - 💼 Completed a **three-month software engineering internship** focused on full-stack Java Spring development, REST APIs, SQL, Git, code review, Jira, and Agile delivery.
 - 🎓 Maintained a **GPA above 4.0 for three consecutive semesters** and received academic honors / an excellence scholarship.
-- 🚀 Shipped a signed Windows release of **Student Book Tracker** with automated tests, end-to-end checks, builds, CI, and updater-feed verification.
 
 ## Selected Work
 
